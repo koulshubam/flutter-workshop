@@ -1,3 +1,3 @@
-# flutter-workshop
+# flutter_workshop
 
-arshad
+A new Flutter project.
